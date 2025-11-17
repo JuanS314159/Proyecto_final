@@ -9,6 +9,7 @@ Columnas (Variables): 23
 
 DESCRIPCIÓN:
 La base de datos es un conjunto de registros de voz utilizados para la detección de la enfermedad de Parkinson. Los datos se obtuvieron a partir de la fonación sostenida del sonido producida por pacientes diagnosticados con Parkinson y personas sanas. A partir de estas grabaciones se extrajeron parámetros acústicos relacionados con frecuencia, variabilidad, perturbación de la señal, ruido y complejidad de la voz.
+Se borró una columna.
 
 DESCRIPCIÓN COLUMNAS:
 status: Variable objetivo: indica si la persona tiene Parkinson (1) o no (0). 
