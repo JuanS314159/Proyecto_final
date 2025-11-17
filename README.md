@@ -1,4 +1,4 @@
-BASE DE DATOS 3: 
+BASE DE DATOS 1: 
 Parkinson data.csv
 
 TAMAÑO: 
@@ -35,7 +35,7 @@ spread2: Segunda medida relacionada con la distribución espectral.
 D2: Dimensión correlacional: patrón de repetición en la señal.
 
 
-BASE DE DATOS 4: 
+BASE DE DATOS 2: 
 Preterm.csv
 
 TAMAÑO: 
